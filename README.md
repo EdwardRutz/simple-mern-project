@@ -1,8 +1,8 @@
 # Simple MERN Project
 
-> A Mongo, Express, React, Node (MERN) app demo with frontend and backend code.
-> Add products to the "MERN Mart"
-> Data is stored temporarily in an array rather than MongoDB
+>A Mongo, Express, React, Node (MERN) app demo with frontend and backend code.
+>-  Add products to the "MERN Mart"
+>-  Data is stored temporarily in an array rather than MongoDB
 
 
 
