@@ -22,7 +22,7 @@
 - [React Docs](https://reactjs.org/docs/getting-started.html)
 - [Node.js Docs](https://nodejs.org/en/docs/)
 - [Express.js Docs](https://expressjs.com/)
-- [MongoDB Docs](https://docs.mongodb.com/_
+- [MongoDB Docs](https://docs.mongodb.com/_)
 
 
 
